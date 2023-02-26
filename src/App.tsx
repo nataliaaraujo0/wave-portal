@@ -1,3 +1,5 @@
+import { Home } from "./page/Home";
+
 export function App() {
-  return <h1>Wave portal</h1>;
+  return <Home />;
 }

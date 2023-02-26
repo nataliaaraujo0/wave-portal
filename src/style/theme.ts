@@ -16,7 +16,7 @@ html{
 }
 body{
   font-family: 'roboto', sans-serif;
-  background: #0c0b20;
+  background: #252033;
   color:white;
 }
 `;
