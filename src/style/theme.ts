@@ -15,8 +15,8 @@ html{
     }
 }
 body{
-  font-family: 'roboto', sans-serif;
-  background: #252033;
-  color:white;
+font-family: 'Golos Text', sans-serif; 
+background: #252033;
+color:white;
 }
 `;

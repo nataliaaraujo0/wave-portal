@@ -9,11 +9,9 @@ export function Home() {
     <WrapperContainer>
       <WrapperHeader>
         <h1>Olá pessoal!</h1>
-        <p>
-          Eu sou a Natália e tenho um canal no youtube. Conecte sua carteira
-          Ethereum e manda um tchauzinho !
-        </p>
+
         <WrapperImage src={imgCar} />
+        <p>Conecte sua carteira Ethereum e me envie sua música favorita !</p>
       </WrapperHeader>
       <WriteMessageCard />
       <SendByeButton />

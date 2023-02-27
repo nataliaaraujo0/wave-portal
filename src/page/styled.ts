@@ -9,14 +9,16 @@ export const WrapperContainer = styled.div`
 
 export const WrapperHeader = styled.div`
   h1 {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
   }
   p {
     margin-bottom: 8px;
+    font-size: 1.2rem;
   }
-  margin-bottom: 16px;
+  margin-bottom: 60px;
 `;
 export const WrapperImage = styled.img`
   object-fit: cover;
   width: 500px;
+  margin-bottom: 16px;
 `;
